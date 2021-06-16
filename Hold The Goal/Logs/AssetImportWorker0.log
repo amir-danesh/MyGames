@@ -822,3 +822,108 @@ System memory in use after: 60.6 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1645.
 Total: 1.957000 ms (FindLiveObjects: 0.130100 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.669600 ms  DeleteObjects: 0.121800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000601 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.000 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 2.374200 ms (FindLiveObjects: 0.143200 ms CreateObjectMapping: 0.035200 ms MarkObjects: 2.096000 ms  DeleteObjects: 0.098900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 2.891600 ms (FindLiveObjects: 0.141500 ms CreateObjectMapping: 0.033300 ms MarkObjects: 2.635900 ms  DeleteObjects: 0.079200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000802 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 3.055100 ms (FindLiveObjects: 0.197500 ms CreateObjectMapping: 0.041800 ms MarkObjects: 2.689200 ms  DeleteObjects: 0.125300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2258.596869 seconds.
+  path: Assets/Challenge 4/Prefabs/Enemy.prefab
+  artifactKey: Guid(47045ccb8f3944b9b8a55f6b07f0aefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 4/Prefabs/Enemy.prefab using Guid(47045ccb8f3944b9b8a55f6b07f0aefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3d52028b5303abd9c9a233a1c43333') in 0.077670 seconds
+  Import took 0.080323 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 2.312100 ms (FindLiveObjects: 0.130500 ms CreateObjectMapping: 0.033800 ms MarkObjects: 2.047700 ms  DeleteObjects: 0.098800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
