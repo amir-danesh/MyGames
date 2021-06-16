@@ -30,7 +30,7 @@ public class SpawnManagerX : MonoBehaviour
         if (enemyCount == 0)
         {
             SpawnEnemyWave(waveCount);
-            enemyScript.speed += 50.0f;
+            enemyScript.IncreaseSpeed(50);
         }
 
     }
