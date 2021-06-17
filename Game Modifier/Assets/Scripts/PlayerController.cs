@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 10.0f;
+    public float speed = 50.0f;
     public float jumpForce = 10.0f;
     public bool onTheGround = true;
     public float horizontalInput;
@@ -53,6 +53,21 @@ public class PlayerController : MonoBehaviour
         if (transform.position.y == 0.5)
         {
             onTheGround = true;
+        }
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Player has collided with enemy.");
+        }
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Powerup"))
+        {
+            Destroy(other.gameObject);
         }
     }
 }
