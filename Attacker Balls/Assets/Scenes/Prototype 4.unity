@@ -465,6 +465,11 @@ MonoBehaviour:
   - {fileID: 4562062714500677693, guid: 0f734f4dc399a764dad8172659690ba7, type: 3}
   enemyCount: 0
   waveNumber: 1
+  bossPrefab: {fileID: 4034367604526021529, guid: bb82ec4f4dbd35d49b6f01641ce65156, type: 3}
+  miniEnemyPrefabs:
+  - {fileID: 6505962816755944916, guid: 6ba345e9c870e7b459839f6c04a556c4, type: 3}
+  - {fileID: 656196807255726232, guid: e6aed6f9e7aceb34d8abf44cdf554974, type: 3}
+  bossRound: 2
 --- !u!4 &1332246159
 Transform:
   m_ObjectHideFlags: 0
@@ -774,10 +779,10 @@ MonoBehaviour:
   powerupIndicator: {fileID: 1000331970}
   currentPowerUp: 0
   rocketPrefab: {fileID: 1738429821324498302, guid: d8a77a8d8098bcc429c56f3f15602d84, type: 3}
-  hangTime: 0
-  smashSpeed: 0
-  explosionForce: 0
-  explosionRadius: 0
+  hangTime: 1
+  smashSpeed: 40
+  explosionForce: 75
+  explosionRadius: 15
 --- !u!1001 &7305732181041295649
 PrefabInstance:
   m_ObjectHideFlags: 0
