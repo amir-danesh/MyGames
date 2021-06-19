@@ -886,3 +886,268 @@ Received Import Request.
 Start importing Assets/Scripts/PowerUp.cs using Guid(f5806aac123d8494fa1a4d2ff9ea09f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e599193dec75389d738b8f293851b5b') in 0.004414 seconds
   Import took 0.006252 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.2 MB.
+System memory in use after: 61.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 1.940000 ms (FindLiveObjects: 0.138000 ms CreateObjectMapping: 0.031800 ms MarkObjects: 1.691800 ms  DeleteObjects: 0.077600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2274.321816 seconds.
+  path: Assets/Prefabs/PowerupSmash.prefab
+  artifactKey: Guid(0f734f4dc399a764dad8172659690ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerupSmash.prefab using Guid(0f734f4dc399a764dad8172659690ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1b76f848088a82dfa32f4e825d5cb3') in 0.150911 seconds
+  Import took 0.165560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.232914 seconds.
+  path: Assets/Prefabs/PowerupRockets.prefab
+  artifactKey: Guid(9ead221c5f5ddd148a183cc69a41c2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PowerupRockets.prefab using Guid(9ead221c5f5ddd148a183cc69a41c2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91f8fafda1c2761df07c4206e167f54') in 0.014652 seconds
+  Import took 0.023920 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000571 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 1.902700 ms (FindLiveObjects: 0.137000 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.653400 ms  DeleteObjects: 0.080200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.952 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 2.296300 ms (FindLiveObjects: 0.159400 ms CreateObjectMapping: 0.033900 ms MarkObjects: 2.005900 ms  DeleteObjects: 0.096200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3093.535782 seconds.
+  path: Assets/Prefabs/Enemy level 2.prefab
+  artifactKey: Guid(1a48841dfde29b8459281baef095e067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy level 2.prefab using Guid(1a48841dfde29b8459281baef095e067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e0333a9dae7e9c1a0961b6276018f3') in 0.081073 seconds
+  Import took 0.382808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.771844 seconds.
+  path: Assets/Prefabs/Enemy level 3.prefab
+  artifactKey: Guid(af3998497c6a913478b1ca0ad97675c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy level 3.prefab using Guid(af3998497c6a913478b1ca0ad97675c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b83ce7162a24270add20ccf4bba25ce') in 0.017041 seconds
+  Import took 0.019488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.739008 seconds.
+  path: Assets/Prefabs/Enemy level 1.prefab
+  artifactKey: Guid(05ee0b8d4f101ad459b28a8d632d6696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy level 1.prefab using Guid(05ee0b8d4f101ad459b28a8d632d6696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8bf1ca9d19ff0f3bc05dd9483f4d43') in 0.014110 seconds
+  Import took 0.045567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002725 seconds.
+  path: Assets/Prefabs/Enemy level 1.prefab
+  artifactKey: Guid(05ee0b8d4f101ad459b28a8d632d6696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy level 1.prefab using Guid(05ee0b8d4f101ad459b28a8d632d6696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8bf1ca9d19ff0f3bc05dd9483f4d43') in 0.008943 seconds
+  Import took 0.011160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.292503 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png
+  artifactKey: Guid(9b654102de6ae3749a41941671a2cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png using Guid(9b654102de6ae3749a41941671a2cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e31e1f550a48946abde1b41e99c25fd') in 0.085668 seconds
+  Import took 0.088178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.212807 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png
+  artifactKey: Guid(9b654102de6ae3749a41941671a2cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/PolygonMinis_Texture_01_Purple.png using Guid(9b654102de6ae3749a41941671a2cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e31e1f550a48946abde1b41e99c25fd') in 0.034963 seconds
+  Import took 0.037548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.277269 seconds.
+  path: Assets/Prefabs/Boss.prefab
+  artifactKey: Guid(bb82ec4f4dbd35d49b6f01641ce65156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Boss.prefab using Guid(bb82ec4f4dbd35d49b6f01641ce65156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35931546e58bfccd17a3aec30162ae60') in 0.016317 seconds
+  Import took 0.018641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.070458 seconds.
+  path: Assets/Prefabs/Mini Enemy level 2.prefab
+  artifactKey: Guid(e6aed6f9e7aceb34d8abf44cdf554974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini Enemy level 2.prefab using Guid(e6aed6f9e7aceb34d8abf44cdf554974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26c039d75e0482f55a3ea3dcbb27937') in 0.015468 seconds
+  Import took 0.017587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007014 seconds.
+  path: Assets/Prefabs/Mini Enemy level 2.prefab
+  artifactKey: Guid(e6aed6f9e7aceb34d8abf44cdf554974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini Enemy level 2.prefab using Guid(e6aed6f9e7aceb34d8abf44cdf554974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26c039d75e0482f55a3ea3dcbb27937') in 0.011049 seconds
+  Import took 0.013607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.655390 seconds.
+  path: Assets/Prefabs/Mini Enemy level 1.prefab
+  artifactKey: Guid(6ba345e9c870e7b459839f6c04a556c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini Enemy level 1.prefab using Guid(6ba345e9c870e7b459839f6c04a556c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276177e42d8c777781617041550c58eb') in 0.015922 seconds
+  Import took 0.018133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006111 seconds.
+  path: Assets/Prefabs/Mini Enemy level 1.prefab
+  artifactKey: Guid(6ba345e9c870e7b459839f6c04a556c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini Enemy level 1.prefab using Guid(6ba345e9c870e7b459839f6c04a556c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276177e42d8c777781617041550c58eb') in 0.009870 seconds
+  Import took 0.012322 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001045 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 2.459900 ms (FindLiveObjects: 0.172000 ms CreateObjectMapping: 0.058300 ms MarkObjects: 2.139400 ms  DeleteObjects: 0.088700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.381425 seconds.
+  path: Assets/Prefabs/Boss.prefab
+  artifactKey: Guid(bb82ec4f4dbd35d49b6f01641ce65156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Boss.prefab using Guid(bb82ec4f4dbd35d49b6f01641ce65156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ce679584003aadeb679cc0ae1c9a0d') in 0.071000 seconds
+  Import took 0.073358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.186212 seconds.
+  path: Assets/Prefabs/Boss.prefab
+  artifactKey: Guid(bb82ec4f4dbd35d49b6f01641ce65156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Boss.prefab using Guid(bb82ec4f4dbd35d49b6f01641ce65156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6dc83d57419695d802ce0c46d5d6075') in 0.009714 seconds
+  Import took 0.011937 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000602 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1672.
+Total: 1.856200 ms (FindLiveObjects: 0.124900 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.630600 ms  DeleteObjects: 0.067000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1675.
+Total: 1.891100 ms (FindLiveObjects: 0.138700 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.630900 ms  DeleteObjects: 0.090700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
