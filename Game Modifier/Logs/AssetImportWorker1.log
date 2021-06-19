@@ -958,3 +958,4 @@ Received Import Request.
 Start importing Assets/Scripts/SpawnManager.cs using Guid(9a307f84d695c434796e8a9882a37e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53001ae7813b42def55728d6a07d6298') in 0.002162 seconds
   Import took 0.005706 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
