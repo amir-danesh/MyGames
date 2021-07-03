@@ -86,3 +86,4 @@ Received Import Request.
 Start importing Assets/Scripts/DifficultyButton.cs using Guid(ced4f74e0cd2b2b479731bbd1b7e17a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be78c9ac090c0ba5762423b9d2563e5a') in 0.060984 seconds
   Import took 0.110788 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
