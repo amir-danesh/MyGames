@@ -36,7 +36,7 @@ public class Target : MonoBehaviour
     {
         
     }
-    private void OnMouseDown()
+    /*private void OnMouseDown()
     {
         if (gameManager.isGameActive)
         {
@@ -49,13 +49,26 @@ public class Target : MonoBehaviour
             gameManager.AddLives(-1);
         }
         
-    }
+    }*/
     private void OnTriggerEnter(Collider other)
     {
         Destroy(gameObject);
         if (!gameObject.CompareTag("Bad"))
         {
             gameManager.GameOver();
+        }
+    }
+    public void DestroyTarget()
+    {
+        if (gameManager.isGameActive)
+        {
+            Destroy(gameObject);
+            Instantiate(explosionParticle, transform.position, explosionParticle.transform.rotation);
+            gameManager.UpdateScore(pointvalue);
+        }
+        if (gameObject.CompareTag("Bad"))
+        {
+            gameManager.AddLives(-1);
         }
     }
 
