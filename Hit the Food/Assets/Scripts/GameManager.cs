@@ -12,16 +12,21 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI gameOverText;
     public TextMeshProUGUI livesText;
     public Button restartButton;
+    public Scrollbar scrollbar;
     public GameObject titleScreen;
     public bool isGameActive;
     private int score;
     private int lives = 3;
     private float spawnRate = 1.0f;
+    private AudioSource backgroundMusic;
 
     // Start is called before the first frame update
     void Start()
     {
         livesText.text = "Lives: " + lives;
+
+        backgroundMusic = GetComponent<AudioSource>();
+        scrollbar.onValueChanged.AddListener((float val) => SetVolume(val));
     }
 
     // Update is called once per frame
@@ -76,5 +81,10 @@ public class GameManager : MonoBehaviour
         {
             GameOver();
         }
+    }
+
+    void SetVolume(float val)
+    {
+        backgroundMusic.volume = val;
     }
 }
