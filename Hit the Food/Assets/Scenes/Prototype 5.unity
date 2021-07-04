@@ -296,11 +296,11 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 169098822}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.5, z: 0.5}
-  m_Center: {x: -164.04045, y: -63.15233, z: 206.5449}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!96 &169098825
 TrailRenderer:
   serializedVersion: 2
