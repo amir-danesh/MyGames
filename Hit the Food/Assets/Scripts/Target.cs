@@ -44,6 +44,10 @@ public class Target : MonoBehaviour
             Instantiate(explosionParticle, transform.position, explosionParticle.transform.rotation);
             gameManager.UpdateScore(pointvalue);
         }
+        if (gameObject.CompareTag("Bad"))
+        {
+            gameManager.AddLives(-1);
+        }
         
     }
     private void OnTriggerEnter(Collider other)
